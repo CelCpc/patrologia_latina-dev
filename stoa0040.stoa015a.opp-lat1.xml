@@ -164,6 +164,9 @@
 		Ajout des balises div afin de structurer le texte et corrections (première section "l" devenue "1", cinquième section "G" devenue "6", onzième section "i.i"
 		devenue "11").
 	</change>
+	<change n="3" when="2019-02-28" who="Céline Champcourt">
+		Suppression de quelques hyphénisations
+	</change>
 </revisionDesc>
 	</teiHeader>
   <text>
@@ -173,45 +176,44 @@
 							Arianorum Episcopo (a).</title>
 					</head>
     	<div type="textpart" subtype="section" n="1">
-					<p>1. Cum Augustinus et Maximinus Hippone regio <lb/> unum in locum convenissent,
-						præsentibus multis, <lb/> lam clcricis quam laicis, MAXIMINUS dixit: Ego non <lb/> ob
-						istam causam in hanc civitatem adveni, ut alter­ <lb/> cationem proponam cum Religione
-						tua, sed missus a <lb/> comite Segisvullo1 contemplatione pacis adveni. Re­ <lb/> vera
-						enim Eraclio presbytero amicali pactione mecum <lb/> tractanti, responsum dedi ut valui,
-						ita tamen ab ipso <lb/> provocatus; quique in tantum exarsit, ut etiam ad­ <lb/> ventum
-						tuum contra me provocaret. Et quia dignata <lb/> est Religio tua sibi facere injuriam I,
-						si interrogas, <lb/> in quibus valeo responsum dabo. Si aliquid rationa­ <lb/> bile
-						dixeris, necesse est ut sequar. Si quid enim de <lb/> divinis Scripturis protuleris,
-						quod commune est cum <lb/> omnibus, necesse est ut audiamus: eæ vero voces <lb/> quæ
-						extra Scripturam sunt, nullo casu a nobis susci­ <lb/> piuntur : præterea cum ipse
-						Dominus moneat nos et <lb/> dicat, <hi rend="italic">Sine causa colunt me , docentes
-							mandata et<lb/> præcepta hominum (Matth.</hi> XV, 9).</p></div>
+					<p>1. Cum Augustinus et Maximinus Hippone regio unum in locum convenissent,
+						præsentibus multis, lam clcricis quam laicis, MAXIMINUS dixit: Ego non ob
+						istam causam in hanc civitatem adveni, ut altercationem proponam cum Religione
+						tua, sed missus a comite Segisvullo1 contemplatione pacis adveni. Revera
+						enim Eraclio presbytero amicali pactione mecum tractanti, responsum dedi ut valui,
+						ita tamen ab ipso  provocatus; quique in tantum exarsit, ut etiam adventum
+						tuum contra me provocaret. Et quia dignata est Religio tua sibi facere injuriam I,
+						si interrogas, in quibus valeo responsum dabo. Si aliquid rationabile
+						dixeris, necesse est ut sequar. Si quid enim de divinis Scripturis protuleris,
+						quod commune est cum omnibus, necesse est ut audiamus: eæ vero voces quæ
+						extra Scripturam sunt, nullo casu a nobis suscipiuntur : præterea cum ipse
+						Dominus moneat nos et dicat, <hi rend="italic">Sine causa colunt me , docentes
+							mandata et præcepta hominum (Matth.</hi> XV, 9).</p></div>
     	
     	<div type="textpart" subtype="section" n="2">
-					<p>2. AUGUSTINUS dixit : Si ad ista omnia respondere <lb/> voluero, id etiam ego agere
-						videbor, ne veniatur ad <lb/> causam. Proinde ut cito agamus quod instat, dic mihi <lb/>
+					<p>2. AUGUSTINUS dixit : Si ad ista omnia respondere voluero, id etiam ego agere
+						videbor, ne veniatur ad causam. Proinde ut cito agamus quod instat, dic mihi
 						fidem tuam de Patre et Filio et Spiritu sancto.</p>
-					<p>MAX. respondit : Si fidem meam postulas, ego illam <lb/> teneo fidem quae Arimini I a
-						trecentis et triginta <lb/> episcopis, non solum exposita, sed etiam subscriptio- <lb/>
-						nibus firmata est.</p></div>
+					<p>MAX. respondit : Si fidem meam postulas, ego illam teneo fidem quae Arimini I a
+						trecentis et triginta episcopis, non solum exposita, sed etiam subscriptionibus firmata est.</p></div>
     	
 		<div type="textpart" subtype="section" n="3">
-						<p>3. AUG. dixit: Jam dixi, et hoc ipsum repeto, quia <lb/> respondere noluisti : Dic
-						fidem tuam de Patre et Fi­ <lb/> lio ct Spiritu sancto.</p>
-					<p>MAX. respondit : Cum enim non defecerim a respon­ <lb/> sione, cur accusor a tua
-						Religione, quasi responsum <lb/> non dederim?</p></div>
+						<p>3. AUG. dixit: Jam dixi, et hoc ipsum repeto, quia respondere noluisti : Dic
+						fidem tuam de Patre et Filio ct Spiritu sancto.</p>
+					<p>MAX. respondit : Cum enim non defecerim a responsione, cur accusor a tua
+						Religione, quasi responsum non dederim?</p></div>
     	
     	<div type="textpart" subtype="section" n="4" >
 						<p>4. AUG. dixit: Propterea dixi te respondere no. <note type="footnote"> ADMONITIO PP.
 							BENEDICTINORUM. </note><note type="footnote"> collationem cum Maximino et libros
-							contra ipsum duos castigavimus juvantibus Mss. duobus vaticanis et undecim Galli­
-							<lb/> canis, sorbonico, Fossatensi, Arnulpbeosi, Micbaelino, Cisterciensi, Remigiano,
-							Corbciensi, Laudunensi majoris Ecclesiae <lb/> I arisiensi s. Martini de Campis,
+							contra ipsum duos castigavimus juvantibus Mss. duobus vaticanis et undecim Gallicanis, sorbonico, Fossatensi, 
+							Arnulpbeosi, Micbaelino, Cisterciensi, Remigiano,
+							Corbciensi, Laudunensi majoris Ecclesiae I arisiensi s. Martini de Campis,
 							altero Parisiensi collegii Bernardinorum, et Tholosano domini de Maran. </note><note type="footnote">
 							<hi rend="italic">Comparavimus præterea eas omnes editiones initio</hi> Retr. et
 							Confess., <hi rend="italic">t.</hi> it <hi rend="italic">memoratas.</hi> M.
 							</note><note type="footnote">t In ante editis, <hi rend="italic">comUe regis</hi>
-							muto. In Mss. quibusdam, <lb/>
+							muto. In Mss. quibusdam,
 							<hi rend="italic">COihite pegimdlo.</hi> in aliis verius, <hi rend="italic">comite
 								segimluo.</hi>
 						</note><note type="footnote"> I sic Mss. Editi vero, <hi rend="italic">mihi facere
@@ -221,111 +223,106 @@
 						</note>
 						<note type="footnote"> (c) Habita anno Christi 427 aut 428. Alias, COntra Maximinum
 							Arianorum episcopum liber primus. </note>
-						<lb/>
-						<pb n="711"/> luisse, quia dum ego quærerem ut diceres mihi fidem <lb/> tuam de Patre et
-						Filio et Spiritu sancto, quod et <lb/> nunc posco, tu mihi non dixisti fidem tuam, sed
-						<lb/> nominasti Ariminense concilium. Fidem tuam volo <lb/> nosse, quid credas, quid
-						sentias de Patre et Filio et <lb/> Spiritu sancto. Si dignaris, ore tuo audiam. Noli me
-						<lb/> mittere ad ea scripta, quæ modo aut pre manu <lb/> non sunt, aut eorum auctoritate
-						non teneor. Dic <lb/> quid credas de Patre et Filio et Spiritu sancto.</p>
-					<p>MAX. respondit: Non ad excusandum me Arimi­ <lb/> nensis concilii decretum interesse
-						volui, sed ut <lb/> ostendam auctoritatem Patrum, qui secundum divinas <lb/> Scripturas
-						fidem nobis tradiderunt illam quam a di­ <lb/> vinis Scripturis didicerunt. Sin vero
-						placet; quia <lb/>
+						
+						<pb n="711"/> luisse, quia dum ego quærerem ut diceres mihi fidem tuam de Patre et
+						Filio et Spiritu sancto, quod et nunc posco, tu mihi non dixisti fidem tuam, sed
+						 nominasti Ariminense concilium. Fidem tuam volo nosse, quid credas, quid
+						sentias de Patre et Filio et Spiritu sancto. Si dignaris, ore tuo audiam. Noli me
+						 mittere ad ea scripta, quæ modo aut pre manu non sunt, aut eorum auctoritate
+						non teneor. Dic quid credas de Patre et Filio et Spiritu sancto.</p>
+					<p>MAX. respondit: Non ad excusandum me Ariminensis concilii decretum interesse
+						volui, sed ut ostendam auctoritatem Patrum, qui secundum divinas Scripturas
+						fidem nobis tradiderunt illam quam a divinis Scripturis didicerunt. Sin vero
+						placet; quia
 						<hi rend="italic">corde creditur ad</hi> justitiam, <hi rend="italic">ore autem
-							confessio fit ad<lb/> salutem (Rom.</hi> x, 40) : <unclear>instruci</unclear> etenim
-						sunus et pa­ <lb/> rati ad respondendum omni exposcenti de nobis ra­ <lb/> tionem de
-						fide et spe quae in nobis est (I <hi rend="italic">Petr.</hi> III, 15) : <lb/> et
-						præterea cum Dominus ipse Jesus dicat, <hi rend="italic">Qui me <lb/> confessus fuerit
-							coram hominibus, confitebor et ego eum<lb/> coram Patre meo qui eat</hi> in <hi rend="italic">coelis; et</hi> qui <hi rend="italic">negaverit me <lb/> coram
+							confessio fit ad salutem (Rom.</hi> x, 40) : <unclear>instruci</unclear> etenim
+						sunus et parati ad respondendum omni exposcenti de nobis rationem de
+						fide et spe quae in nobis est (I <hi rend="italic">Petr.</hi> III, 15) : et
+						præterea cum Dominus ipse Jesus dicat, <hi rend="italic">Qui me confessus fuerit
+							coram hominibus, confitebor et ego eum coram Patre meo qui eat</hi> in <hi rend="italic">coelis; et</hi> qui <hi rend="italic">negaverit me coram
 							hominibus, negabo et ego eum coram Patre meo qui</hi>
-						<lb/> in <hi rend="italic">cœlis est (Matth.</hi> X, 32, 33) : istud periculum ti­ <lb/>
-						mens, quamvis leges imperiales non ignoro, tamen <lb/> præcepto Salvatoris edoctus, qui
-						monuit nos et dixit, <lb/>
+						 in <hi rend="italic">cœlis est (Matth.</hi> X, 32, 33) : istud periculum timens, quamvis leges imperiales non ignoro, tamen præcepto Salvatoris edoctus, qui
+						monuit nos et dixit,
 						<hi rend="italic">Nolite</hi> timere <hi rend="italic">eoa qui occidunt corpus, animam
-							autem <lb/> non</hi> possunt <hi rend="italic">occidere (Ibid.</hi> 28) ; respondeo
-						evidenter : <lb/> Credo quod unus est Deus Pater. qui a nullo vitam <lb/> accepit ; et
-						quia unus est Filius, qui quod est et quod <lb/> vivit, a Patre accepit ut esset ; et
-						quia unus est Spi­ <lb/> ritus sanctus paracletus, qui est illuminator et sancii­ <lb/>
-						ficator animarum nostrarum. Et hoc de divinis <lb/> Scripturis assero. Si jubes,
-						prosequor testimonia : <lb/> si in aliquo reprehenderit Religio tua, dabo responsum
-						<lb/> in his in quibus reprehendi videor.</p></div>
+							autem non</hi> possunt <hi rend="italic">occidere (Ibid.</hi> 28) ; respondeo
+						evidenter : Credo quod unus est Deus Pater. qui a nullo vitam accepit ; et
+						quia unus est Filius, qui quod est et quod vivit, a Patre accepit ut esset ; et
+						quia unus est Spiritus sanctus paracletus, qui est illuminator et sanciificator animarum nostrarum. Et hoc de divinis Scripturis assero. Si jubes,
+						prosequor testimonia :  si in aliquo reprehenderit Religio tua, dabo responsum
+						in his in quibus reprehendi videor.</p></div>
     	
 					<div type="textpart" subtype="section" n="5">
-						<p>5 AUG. dixit : Movet me, quod ila posuisti proprie <lb/> illuminatorem nostrum Spiritum
-						sanctum; quasi <lb/> Christus non sit illuminator noster. Hinc primo abs <lb/> te volo
+						<p>5 AUG. dixit : Movet me, quod ila posuisti proprie illuminatorem nostrum Spiritum
+						sanctum; quasi Christus non sit illuminator noster. Hinc primo abs te volo
 						audire quid sentias.</p>
-					<p>MAX. respondit: Nos enim unum auctorem Deum <lb/> Patrem cognoscimus, a quo illuminatio
-						omnis per <lb/> gradus descendit. Nam denique et apostolus Paulus <lb/> profert de se
-						testimonium in Actibus Apostolorum, <lb/> dicens. <hi rend="italic">Sic</hi> enim <hi rend="italic">mandavit nobis Deus;</hi> et inter caete­ <lb/> ra, <hi rend="italic">Posui te</hi> in <hi rend="italic">lumen gentium (Act.</hi> XIII, 47). Si <lb/>
-						Apostolus in lumine gentium positus est ut doctor, <lb/> quauto magis Spiritus sanctus,
-						qui illuminator est <lb/> Apostoli; in quo ct Apostolus locutus est, secundum <lb/>
+					<p>MAX. respondit: Nos enim unum auctorem Deum Patrem cognoscimus, a quo illuminatio
+						omnis per gradus descendit. Nam denique et apostolus Paulus profert de se
+						testimonium in Actibus Apostolorum, dicens. <hi rend="italic">Sic</hi> enim <hi rend="italic">mandavit nobis Deus;</hi> et inter caetera, <hi rend="italic">Posui te</hi> in <hi rend="italic">lumen gentium (Act.</hi> XIII, 47). Si 
+						Apostolus in lumine gentium positus est ut doctor, quauto magis Spiritus sanctus,
+						qui illuminator est Apostoli; in quo ct Apostolus locutus est, secundum 
 						ipsius Apostoli dicta, quia <hi rend="italic">nemo potest dicere Domi­</hi>
-						<lb/> num Jesum, nisi in <hi rend="italic">Spiritu sancto</hi> (I <hi rend="italic">Cor.</hi> XII, 3) ? Uti­ <lb/> qrt illuminator est Spiritus sanctus, qui illuminavit
-						<lb/> Apostolum. Sed Spiritus sanctus a Christo accepit, <lb/> secundum ipsius Christi
-						testimonium, sicut ait in <lb/> Evangelio Christus : <hi rend="italic">Multa habeo</hi>
+						num Jesum, nisi in <hi rend="italic">Spiritu sancto</hi> (I <hi rend="italic">Cor.</hi> XII, 3) ? Utiqrt illuminator est Spiritus sanctus, qui illuminavit
+						Apostolum. Sed Spiritus sanctus a Christo accepit, <lb/> secundum ipsius Christi
+						testimonium, sicut ait in Evangelio Christus : <hi rend="italic">Multa habeo</hi>
 						vobis <hi rend="italic">dicere, sed</hi> Mon <lb/>
 						<hi rend="italic">potestis portare</hi> modo : <hi rend="italic">cum autem venerit ille
-							Spiritus <lb/> veritatis, diriget</hi> vos in <hi rend="italic">omnem veritatem. Non
-							enim lo­ <lb/> quetura se, sed quæcumque</hi> audierit loquetur, <hi rend="italic">et
-							ventura <lb/> annuntiabit</hi> vobis. <hi rend="italic">Ille me clarificabit, quia de
-							meo ac­<lb/> cipiet, et annuntiabit</hi> vobis <hi rend="italic">(Joan.</hi> XVI,
-						12-14). Ergo <lb/> Spiritus sanctus accepit a Christo, secundum testi­ <lb/> monium
-						Christi, Sine dubio autem Christus ipse conti­ <lb/> tetur quod, <hi rend="italic">Doctrina mea non eat mea, sed ejus qui</hi> me <lb/>
+							Spiritus veritatis, diriget</hi> vos in <hi rend="italic">omnem veritatem. Non
+							enim loquetura se, sed quæcumque</hi> audierit loquetur, <hi rend="italic">et
+							ventura annuntiabit</hi> vobis. <hi rend="italic">Ille me clarificabit, quia de
+							meo accipiet, et annuntiabit</hi> vobis <hi rend="italic">(Joan.</hi> XVI,
+						12-14). Ergo Spiritus sanctus accepit a Christo, secundum testimonium
+						Christi, Sine dubio autem Christus ipse contitetur quod, <hi rend="italic">Doctrina mea non eat mea, sed ejus qui</hi> me 
 						<hi rend="italic">misit Patris (Joan.</hi> VII, 16); et, <hi rend="italic">Quod</hi>
-						vitiet <hi rend="italic">audivi apnd <lb/> Patrem meum, loquor (ld.</hi> VIII, 38). Sive
-						ergo Christus <lb/> docens nos illuminat, Pater illuminat qui eum desli­ <lb/> navit;
-						sive Spiritus sanctos illuminat, illuminatio ad <lb/> auctorem recurrit, qui est fons
-						bonitatis : a quo con­ <lb/> secutus, sive beatus Apostolus, sive etiam omnes <lb/>
+						vitiet <hi rend="italic">audivi apnd Patrem meum, loquor (ld.</hi> VIII, 38). Sive
+						ergo Christus docens nos illuminat, Pater illuminat qui eum deslinavit;
+						sive Spiritus sanctos illuminat, illuminatio ad auctorem recurrit, qui est fons
+						bonitatis : a quo consecutus, sive beatus Apostolus, sive etiam omnes 
 						sancti, illuminant quidem credentes, sed haec illumi­ <lb/> natio ad unum auctorem
-						recurrit. Et ea de causa di­ <lb/> cebat propheta : <hi rend="italic">Dominus
-							illuminatio mea, et salus <lb/> mea ; qvem timebo (Psal.</hi> xxvi, i)?</p></div>
+						recurrit. Et ea de causa dicebat propheta : <hi rend="italic">Dominus
+							illuminatio mea, et salus mea ; qvem timebo (Psal.</hi> xxvi, i)?</p></div>
     	
     	<div type="textpart" subtype="section" n="6">
-					<p>6. Auc. dixit: Ego non nego illuminare Spiritum <lb/> sanctum: sed utrum et Christus
-						illuminet per se ipsum, <lb/> et Pater illuminet per se ipsum, an non illuminent isii
-						<lb/> nisi per Spiritum sanctum : hoc rcquisivi breviter, <lb/> hoc requiro.</p>
-					<p>MAX. respondit: Credo non latere Religioncm tuam, <lb/> beatum dixisse apostolum
+					<p>6. Auc. dixit: Ego non nego illuminare Spiritum sanctum: sed utrum et Christus
+						illuminet per se ipsum, et Pater illuminet per se ipsum, an non illuminent isii
+						nisi per Spiritum sanctum : hoc rcquisivi breviter, hoc requiro.</p>
+					<p>MAX. respondit: Credo non latere Religioncm tuam, beatum dixisse apostolum
 						Paulum, <hi rend="italic">Cum autem beni­</hi>
-						<lb/> gnitas <hi rend="italic">et humanitas apparuit Salvatoris nostri Dei,</hi> non <lb/>
-						<hi rend="italic">ex operibus justitias quæ fecimus nos, sed secundum<lb/> suam
-							misericordiam salvos nos fecit, per lavacrum re­ <lb/> generationis et renovationis
-							Spiritus</hi> sancti, <hi rend="italic">quem</hi> effudit <lb/> in <hi rend="italic">noa abunde, per Jesum Christum Salvatorem nostrum <lb/> (Tit.</hi> III, 4-6).
-						Secundum hanc regulam dico Spiritum <lb/> sanctum et profiteor illuminatorem per Filium
-						: ut <lb/> ante dictum est, <hi rend="italic">Quem effudit in noa abunde, per Je­</hi>
-						<lb/> sum <hi rend="italic">Christum Salvatorem nostrum.</hi> Jam dedi respon­ <lb/> sum
-						: quoniam sive Paulus illuminat, ad auctorem <lb/> Deum Patrem recurrit hæc illuminatio;
-						sive Spiritus <lb/> sanctus illuminat,ad auctorem recurrit illuminatio : sive <lb/>
-						Christus illuminat, ad auctorem recurrit illuminatio. Et <lb/> hoc magisterio Christi
+						gnitas <hi rend="italic">et humanitas apparuit Salvatoris nostri Dei,</hi> non 
+						<hi rend="italic">ex operibus justitias quæ fecimus nos, sed secundum suam
+							misericordiam salvos nos fecit, per lavacrum regenerationis et renovationis
+							Spiritus</hi> sancti, <hi rend="italic">quem</hi> effudit <lb/> in <hi rend="italic">noa abunde, per Jesum Christum Salvatorem nostrum (Tit.</hi> III, 4-6).
+						Secundum hanc regulam dico Spiritum sanctum et profiteor illuminatorem per Filium
+						: ut ante dictum est, <hi rend="italic">Quem effudit in noa abunde, per Je­</hi>
+						 sum <hi rend="italic">Christum Salvatorem nostrum.</hi> Jam dedi responsum
+						: quoniam sive Paulus illuminat, ad auctorem Deum Patrem recurrit hæc illuminatio;
+						sive Spiritus sanctus illuminat,ad auctorem recurrit illuminatio : sive <lb/>
+						Christus illuminat, ad auctorem recurrit illuminatio. Et hoc magisterio Christi
 						edoctus,prosequor, sicut ait ipse <lb/> Christus : <hi rend="italic">Oves meæ vocem
 							meam</hi> audiunt, <hi rend="italic">et sequun­ <lb/> tur me; et ego vitam æternam do
-							eis, et non peribunt in<lb/> æternum, et non rapiet eas quisquam de manu mea.</hi> Pa­ <lb/>
-						<hi rend="italic">ter meus quod dedit</hi> mihi, <hi rend="italic">majus omnibus est, et
-							nemo <lb/> potest rapere illud de manu Patris mei.</hi> Et iterum sic <lb/> ait : <hi rend="italic">Ego et Pater</hi> unum <hi rend="italic">sumus (Joan.</hi> x, 27-30).
-						Ergo <lb/> ad defendendas oves, ad illuminandas, Pateret Filius <lb/> unum sunt,
-						concordes atque unanimes secundum <lb/> hanc rationem quam audisti, Quoniam nemo potest
-						<lb/> rapere de manu mea oves quas mihi dedit Pater : Iii- <lb/> miH modo nec de manu
+							eis, et non peribunt in<lb/> æternum, et non rapiet eas quisquam de manu mea.</hi> Pa<hi rend="italic">ter meus quod dedit</hi> mihi, <hi rend="italic">majus omnibus est, et
+							nemo potest rapere illud de manu Patris mei.</hi> Et iterum sic ait : <hi rend="italic">Ego et Pater</hi> unum <hi rend="italic">sumus (Joan.</hi> x, 27-30).
+						Ergo ad defendendas oves, ad illuminandas, Pateret Filius unum sunt,
+						concordes atque unanimes secundum hanc rationem quam audisti, Quoniam nemo potest
+						 rapere de manu mea oves quas mihi dedit Pater : IiimiH modo nec de manu
 						Patris.</p></div>
     	
     	<div type="textpart" subtype="section" n="7">
-					<p>7. AUG. dixit: Res loqueris necessarias quidem, sed <lb/> non ad causam. Ad
-						interrogationem meam non respon­ <lb/> disti,et tamen multa dixisti. Si velis, relicta
-						quæstione <lb/> quae inter nos vertitur, reddere totum Evangelium,qui <lb/> dies
-						sufficiunt, quantum temporis spatium necessa­ <lb/> rium est? Brevitcr mihi dic, quoniam
-						interrogavi te, <lb/> utrum illuminet per seipsum Christus, an non illumi­ <lb/> net
-						nisi per Spiritum sanctum. Non solum ad hoc re­ <lb/> spondere noluisti, sed si ine non
-						fallitquod audivi, ma­ <lb/> gis Spiritum sanctum per Christum inluminare dixisti.</p>
-					<p>MAX. respondit : Nun decet in rcligione, præterea <lb/> cum de Den loquamur, calumniam
-						iuferre. Ego et re­ <lb/> sponsum dedi, et si non sufficiunt quæ diximus, ad­ <lb/>
-						dimus testimonia, quia per Jesum Christum Spiritus <lb/>
-						<pb n="713"/> sanctus effusus est in omnes credentes. Sic enim legi­ <lb/> mus bcatum
-						Petrum dixisse : <hi rend="italic">Hunc</hi> Jesum <hi rend="italic">suscitavit <lb/>
+					<p>7. AUG. dixit: Res loqueris necessarias quidem, sed non ad causam. Ad
+						interrogationem meam non respondisti,et tamen multa dixisti. Si velis, relicta
+						quæstione quae inter nos vertitur, reddere totum Evangelium,qui dies
+						sufficiunt, quantum temporis spatium necessarium est? Brevitcr mihi dic, quoniam
+						interrogavi te, utrum illuminet per seipsum Christus, an non illuminet
+						nisi per Spiritum sanctum. Non solum ad hoc respondere noluisti, sed si ine non
+						fallitquod audivi, magis Spiritum sanctum per Christum inluminare dixisti.</p>
+					<p>MAX. respondit : Nun decet in rcligione, præterea cum de Den loquamur, calumniam
+						iuferre. Ego et responsum dedi, et si non sufficiunt quæ diximus, addimus testimonia, quia per Jesum Christum Spiritus <lb/>
+						<pb n="713"/> sanctus effusus est in omnes credentes. Sic enim legimus bcatum
+						Petrum dixisse : <hi rend="italic">Hunc</hi> Jesum <hi rend="italic">suscitavit
 							Deus, cujus noa omnes</hi> testes sumus. <hi rend="italic">Dextera itaque Dei</hi>
-						<lb/> exaltatus, <hi rend="italic">et promissione Spiritus</hi> sancti <hi rend="italic">accepta a</hi> Pa­ <lb/>
-						<hi rend="italic">tre, effudit hoc donum quod nunc</hi> vos <hi rend="italic">et videtis
-							el audi­ <lb/> tis (Act.</hi> II, 32, 33). Dixi euim quod omnia quaecum­ <lb/> que
-						suggerit nobis Spiritus sanctus, a Christo conse­ <lb/> cutus sit. Recurre ad testimonia
-						ante lata, et invenies <lb/> Iia.</p></div>
+						 exaltatus, <hi rend="italic">et promissione Spiritus</hi> sancti <hi rend="italic">accepta a</hi> Pa<hi rend="italic">tre, effudit hoc donum quod nunc</hi> vos <hi rend="italic">et videtis
+							el auditis (Act.</hi> II, 32, 33). Dixi euim quod omnia quaecumque
+						suggerit nobis Spiritus sanctus, a Christo consecutus sit. Recurre ad testimonia
+						ante lata, et invenies Iia.</p></div>
     	
     	<div type="textpart" subtype="section" n="8">
 					<p>8. AUG. dixit : Cum vis conari probare quod ipse <lb/> non nego, in rebus superfluis
