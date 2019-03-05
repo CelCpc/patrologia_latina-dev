@@ -167,6 +167,8 @@
 				hyphénisations </change>
 			<change n="4" when="2019-03-05" who="Céline Champcourt"> Suppression du reste des
 				hyphénisations</change>
+			<change n="5" when="2019-03-05" who="Céline Champcourt">Corrections sur des balises div
+				ajoutées précédemment</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -933,7 +935,7 @@
 						discipulus, noli esse multiloquus.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="1">
+				<div type="textpart" subtype="section" n="15.1">
 					<p>1. MAX. dixit: Loqueris quasi auxilio principum munitus, nihil secundum
 						timorem Dei. Longas horas sustinui, exposuisti at libi visum est.
 						Respondemus Deo auxiliante ad omnia. Nec enim nudo sermonc , sed testimoniis
@@ -943,7 +945,7 @@
 						placuit.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="2">
+				<div type="textpart" subtype="section" n="15.2">
 					<p>2. Nos Christum colimus ut Deum omnis creaturæ. Nam qui adoratur ct colitur,
 						non tantum ab hominum natura, verum etiam etah omnibus Virtutibus
 						coelestibus, audi clamantem beatum Paulum : <hi rend="italic">Hoc enim
@@ -973,7 +975,7 @@
 						certe de auctoritate divinarum Scripturarum respondeo.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="3">
+				<div type="textpart" subtype="section" n="15.3">
 					<p>3. Dicis Spiritum sanctum quod æqualis sit Filio. Da testimonia, ubi adoratur
 						Spiritus sanctus, ubi ei cœlestia et terrestria et inferna genu flectant.
 						Nos enim , quod adorandus sit Deus Pater, beato Panlo apostolo clamante
@@ -988,7 +990,7 @@
 						præter quam diximus ex divinis Scripturis.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="4">
+				<div type="textpart" subtype="section" n="15.4">
 					<p>4. Quod Christus est in dextera Dei, qnod interpellat pro nobis <hi
 							rend="italic">(Rom.</hi> VIII, 34), sic etiam in alio luco ipse
 						prosequitur Paulus dicens : <hi rend="italic">Quæ</hi> sursum sunt quærite,
@@ -1009,7 +1011,7 @@
 						XXVI, 63, 64).</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="5">
+				<div type="textpart" subtype="section" n="15.5">
 					<p>5. Nos enim Spiritum sanctum competenter honoramus ut doctorem , ut ducatorem
 						1 , ut illuminatorem, ut sanctificatorem: Christum colimus ul creatorem :
 						Patrem cum sincera devotione adoramus ut auctorem , quem et unum auctorem
@@ -1055,14 +1057,14 @@
 						excogitationem, in illa beata natura Deus natus a Patre est 2 .</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="6">
+				<div type="textpart" subtype="section" n="15.6">
 					<p>6. In Deo enim comparatione digna uHi <unclear>decet</unclear>. IIoc sane
 						mihi displicet, et valde animo dolui in tua prosecutione : ut enim diceres
 						quod homo hominem generat, ct canis canem ; tam foeda comparatio in illam
 						Lautam immensitatem produci non debuit</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="7">
+				<div type="textpart" subtype="section" n="15.7">
 					<p>7. Quis antem ignorat quod Deus Deum genuit, quod Dominus Dominum genuit,
 						quod Rex Regem genuit, quod Creator Creatorem genuit, quod bonus bonum
 						genuit, quod sapicns sapientem. genuit, quod clemens elementem genuit,
@@ -1075,7 +1077,7 @@
 							divinitas</hi> ( Rom. i, 20).</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="8">
+				<div type="textpart" subtype="section" n="15.8">
 					<p>8. Adhuc autem adjicio, non contraria his quæ bene sunt dicta dicens, sed
 						consensum accommodans: quoniam ex magnitudine pulchritudinis condigne.
 						Creator corum cognoscitur atque colitur. Ut puto dedimus ad ista responsum;
@@ -1118,7 +1120,7 @@
 						accepit.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="9">
+				<div type="textpart" subtype="section" n="15.9">
 					<p>9. Nam ct ipse dedisti rationem, secundum quid sit visibilis , secundum quid
 						invisibilis : ut puto non recens hæc auditio pervenit ad aures tuae
 						Religionis. Nam et in prosecutione quam prosecutus es, comparationem
@@ -1219,7 +1221,7 @@
 						ulla digna invenitur ad illum , qui est incomparabilis.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="10">
+				<div type="textpart" subtype="section" n="15.10">
 					<p>10. Ego Patrem solum secundum antelata testimonia, non cum altero et tertio
 						dico quod unus est, sed quod solus unus est Deus. Si vero solus unus non
 						est, pars est. Nec cnim ex partibus compositum unum di <pb n="729"/> cu
@@ -1235,7 +1237,7 @@
 							alto</hi> ( <hi rend="italic">Luc.</hi> XXIV, 49 ).</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="11">
+				<div type="textpart" subtype="section" n="15.11">
 					<p>ii. Si ob hoc invisibilis Filius a te pronuntiatur, eo quod oculis humanis
 						contemplari uon possit; cur non et cœlestes virtutes pariter invisibiles
 						pronun­ tias, quando nec ipsi; obtutibus humanis videri possint? Ego quidem
@@ -1246,7 +1248,7 @@
 						Scripturæ, reddo rationem.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="12">
+				<div type="textpart" subtype="section" n="15.12">
 					<p>12. Ait enim Apostolus, <hi rend="italic">Beatus et solus potens, Rex
 							regum.</hi> Solum dicit potentem Patrem, non quia Filius non sit
 						potetiS. Audi igitur testimonium de Filio, ipsum Spiritum sanctum clamantem
@@ -1259,7 +1261,7 @@
 						prædicat creatura ?</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="13">
+				<div type="textpart" subtype="section" n="15.13">
 					<p>13. Quomodo non sapicns, de quo Spiritus sanctus collaudans ejus sapientiam
 						clamat et dicit: : <hi rend="italic">Quam magnificata sunt opera tun,</hi>
 						Domine ! <hi rend="italic">Omnia in sapientia fecisti</hi> ( <hi
@@ -1316,7 +1318,7 @@
 							est</hi> (I <hi rend="italic">Joan. v,</hi> 1).</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="14">
+				<div type="textpart" subtype="section" n="15.14">
 					<p>14. Miror namque, charissime. Cum cnim et Spiritum sanctum de substantia
 						Patris esse dicatis, si Filius ex substantia Dei Patris est, de substantia
 						Paris et Spiritus sanctus, cur unus Filius est, et alius non est filius?
@@ -1434,7 +1436,7 @@
 						querimur injuriam, sed Dei gloriam prædicamus.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="15">
+				<div type="textpart" subtype="section" n="15.15">
 					<p>15. Certum est quod ait Apostolus , Qui <hi rend="italic">cum in forma Dei
 							esset.</hi> Quis enim negat Filium esse in forma Dei ? Quod enim sit
 						Deus, quod sit Dominus, quod sit Rex, jam puto latius exposuimus. Et quia
@@ -1487,7 +1489,7 @@
 							super omne nomen :</hi> an tuam quisque intelligat interpretationem.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="16">
+				<div type="textpart" subtype="section" n="15.16">
 					<p>16. <hi rend="italic">Ascendo ad Deum</hi> meum <hi rend="italic">et ad Deum
 							vestrum (Joan.</hi> xx, 17), Dominum propter formam servi dixisse , quam
 						suscepit, asseris, ut puto, ut dicis : si ipse humilians se in corpore dum
@@ -1543,7 +1545,7 @@
 							transibunt, verba autem mea non præteribunt</hi> ( Id. XIIV, 55).</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="17">
+				<div type="textpart" subtype="section" n="15.17">
 					<p>17. Constat quod in principio erat Filius, et apud Patrem erat, et Deus erat
 						: et hic erat in principio apud Deum, ut primogenitus omnis creature : et
 						omnia per ipsum facta sunt, et sine ipso factum cst nibil (Id. I, 1-3) :
@@ -1556,7 +1558,7 @@
 						principio apud Deum.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="18">
+				<div type="textpart" subtype="section" n="15.18">
 					<p>18. Quid, si audieris Patrem dicentem, <hi rend="italic">Tecum principium in
 							die virtutis tuæ,</hi> in <hi rend="italic">splendoribus sanctorum,
 							ex</hi> ulTro <hi rend="italic">ante luciferuim genui te</hi> ( <hi
@@ -1594,7 +1596,7 @@
 						XXV , 34).</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="19">
+				<div type="textpart" subtype="section" n="15.19">
 					<p>19. Jam dictum est quod et ipse pro tuo arbitri secundum sensum luum visus es
 						alienare. Stat lameD apostolicum dictum , quia <hi rend="italic">sicut
 							oportet, orare nesci</hi>mus; <hi rend="italic">sed ipse Spiritus
@@ -1609,7 +1611,7 @@
 							rend="italic">majus fidelis invenitur (Luc.</hi> XV!, 10).</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="20">
+				<div type="textpart" subtype="section" n="15.20">
 					<p>20. Nee enim aliter asseri potest quod Pater et Filius unum sint, nisi hoc
 						sane modo quo tu ipse et nos probare possumus bis ipsis exemplis quibus usus
 						es. Nam si , ut dcis , et Apostolus confirmat, <hi rend="italic">Qui</hi>
@@ -1646,7 +1648,7 @@
 						discipuli approbari !</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="21">
+				<div type="textpart" subtype="section" n="15.21">
 					<p>21. Suscipio quæ protulisti , <hi rend="italic">Nescitis quia templum Dei
 							estis, et Spiritus Dei habitat in vobis</hi> (I <hi rend="italic"
 							>Cor.</hi> III, 16) ? Nec enim Deus inhabitat in homine , quem non aule
@@ -1684,7 +1686,7 @@
 							eum</hi> misit <hi rend="italic">(Id.</hi> v , 23).</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="22">
+				<div type="textpart" subtype="section" n="15.22">
 					<p>22. Dicis quod non dixerit Salvator noster Christus, Ut ipsi et nos unum;
 						sed, <hi rend="italic">Ut ipsi sint</hi> unum in na <pb n="737"/> tura sua
 						et substantia sua, concordi æqualitate ' quodam modo uniti atque conflati :
@@ -1755,7 +1757,7 @@
 						in conve­ nientia , in dilectione ; quando id faciunt quod Deus vult.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="23">
+				<div type="textpart" subtype="section" n="15.23">
 					<p>23. Dicis quod unus est Deus. Astrue, si Pater et Filius et Spiritus sancius
 						unus esl Ocus, an solus Pater ninus Deus dicendus est, cujus Filius ChristUs
 						noster cst Deus. Judaico more hortaris nos profiteri unum Deum? An de
@@ -1792,7 +1794,7 @@
 						prosecuti.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="24">
+				<div type="textpart" subtype="section" n="15.24">
 					<p>24. Non denegamus quod Filius diligat Patrem, cum quando et scriptum ierimus
 						: <hi rend="italic">Ut sciat hic</hi> mun <hi rend="italic">dus quia diligo
 							Patrem, et</hi> sicut <hi rend="italic">mandatum mihi</hi> dedi' <hi
@@ -1804,7 +1806,7 @@
 						qui videt Filium , per Filium vidcl et intelligit Patrem.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="25">
+				<div type="textpart" subtype="section" n="15.25">
 					<p>25. Propter formam servi, majorem Patrem profes- <note type="footnote"> I
 							Editi, per ipsum At Mss., in <hi rend="italic">ipso :</hi> ct sic locum
 							a Maxrmino minus recte i rolatum Dol. Augustinus in tibro it cap. 23, n.
@@ -1821,7 +1823,7 @@
 						servili major sii Pater, tu vidcris.</p>
 				</div>
 
-				<div type="textpart" subtype="section" n="26">
+				<div type="textpart" subtype="section" n="15.26">
 					<p>26. Dicis quod se divinitas patribus ostendit : et ,saulo ante prosecutus es,
 						quod utique divinitas sit invisibilis. Ostendit se sanc, non Pater, qui
 						invisibilis cst: ne si dicamus Patrem visum fuissc, Apostolum reddamus
